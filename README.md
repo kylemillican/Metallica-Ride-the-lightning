@@ -1,4 +1,4 @@
-# Single Song Promotion
+# Metallica, Ride The Lightning
 
 > Playlists more popular than albums 
 
@@ -13,4 +13,4 @@
 * What's old is new agai. This is the [modern mixtape](https://en.wikipedia.org/wiki/Mixtape) or a compilation of curated songs. 
 
 ## Citations
-* Your citations go here
+* [name of link](URl)
